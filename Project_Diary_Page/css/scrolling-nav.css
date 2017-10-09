@@ -17,3 +17,23 @@ header {
 section {
   padding: 150px 0;
 }
+
+.btn-outline {
+  color: Black;
+  border: 1px solid;
+  border-color: black; }
+  .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
+    color: white;
+    border-color: #386480;
+    background-color: #386480; 
+	
+	}
+.btn {
+  border-radius: 300px;
+  font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
+  letter-spacing: 2px;
+  text-transform: uppercase; }
+
+.btn-xl {
+  font-size: 11px;
+  padding: 15px 45px; }
