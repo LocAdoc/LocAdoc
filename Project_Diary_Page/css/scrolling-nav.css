@@ -28,6 +28,16 @@ section {
     background-color: #386480; 
 	
 	}
+.btn-outline2 {
+  color: white;
+  border: 1px solid;
+  border-color: white; }
+.btn-outline2:hover, .btn-outline2:focus, .btn-outline2:active, .btn-outline2.active {
+    color: white;
+    border-color: #386480;
+    background-color: #386480; 
+	
+	}  
 .btn {
   border-radius: 300px;
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
